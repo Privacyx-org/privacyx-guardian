@@ -258,7 +258,7 @@ function App() {
       </div>
 
       <div style={{ flex: 1, display: "flex", justifyContent: "center", alignItems: "center" }}>
-        <img src="/agent-privacyx.png" alt="Privacyx AI Agent" style={{ maxWidth: "100%", maxHeight: "90vh", borderRadius: "12px" }} />
+        <img src="/agent-guardian.png" alt="Privacyx AI Agent" style={{ maxWidth: "100%", maxHeight: "90vh", borderRadius: "12px" }} />
       </div>
     </div>
   );
